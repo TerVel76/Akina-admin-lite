@@ -1,10 +1,10 @@
 # Akina-admin-lite
 Akina Admin Panel
 
-для проекта Скрипт фотохостинга "Akina"
-http://akina-photohost.org/
-https://github.com/vla7/akina/
-https://code.google.com/p/akina/
+для проекта Скрипт фотохостинга "Akina" для версий 1.0.8 - 1.0.9
+* http://akina-photohost.org/
+* https://github.com/vla7/akina/
+* https://code.google.com/p/akina/
 
 При первом входе пароль записан в открытом виде в файл working/config.ini .
 Повторное обращение шифрует пароль.
