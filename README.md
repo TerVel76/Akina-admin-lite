@@ -1,7 +1,7 @@
 # Akina-admin-lite
 Akina Admin Panel
 
-для проекта Скрипт фотохостинга "Akina" для версий 1.0.8 - 1.0.9
+для проекта Скрипт фотохостинга "Akina" (версий 1.0.8 - 1.0.9, другие версии не тестировались)
 * http://akina-photohost.org/
 * https://github.com/vla7/akina/
 * https://code.google.com/p/akina/
